@@ -51,6 +51,8 @@ This is my coursework for Deep Learning (CPSC360) at Trinity College.
 The following tools were used in this project:
 
 - [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Google Colab](https://colab.research.google.com/)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :checkered_flag: Starting ##
